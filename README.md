@@ -1,2 +1,2 @@
-# Geologo
-Proyecto Geologo
+# Geologist
+Geologist Project
